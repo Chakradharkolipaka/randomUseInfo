@@ -1,8 +1,8 @@
-Details unavailable through public summary. Presumably, a project fetching or generating random user information, typically for demo, testing, or learning.
+Project fetching or generating random user information, typically for demo, testing, or learning.
 
 Key Features:
 
-(Assumed) Generates or fetches random user data
+Generates fetched random user data from UPI
 
 Displays user information dynamically
 
