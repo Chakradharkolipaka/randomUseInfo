@@ -1,2 +1,9 @@
-# randomUseInfo
-I have used Front End like HTML,CSS,JS to fetch data from an API which displays information of any random person's image,name,gender and location
+Details unavailable through public summary. Presumably, a project fetching or generating random user information, typically for demo, testing, or learning.
+
+Key Features:
+
+(Assumed) Generates or fetches random user data
+
+Displays user information dynamically
+
+Likely includes a simple web interface
